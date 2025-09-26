@@ -10,7 +10,7 @@ User stories issues practice
 | Aidan Moir              | Scrum Master             | admoir01      | amoir@myseneca.ca          |
 
 
-Project Description 
+### Project Description 
 
 We are making a website for a local Pizza store, customers often ask about our discounts and items sold at our store since as a local pizza store we make it of vital importance to only sell fresh pizza and other food items, and most times that would collide with our uber east platform. Which is why making a website for our store was essential for us.
 
