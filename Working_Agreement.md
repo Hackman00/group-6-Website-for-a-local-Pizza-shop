@@ -4,6 +4,8 @@
 
 This document defines expectaions, guidelines and procedure to follow by the team to work well in a team based environment, and working on a website for a Local Pizza Store.
 
+
+
 **2. General Principles**
 
   **Commitment to Agile Values**:Work here on out, will be completed on an iteratively fashion, Previous work will be reviewed and final changes and updates made based on          feedback.
@@ -13,6 +15,7 @@ This document defines expectaions, guidelines and procedure to follow by the tea
   **Respect**: Value each member's input and expertise
   
   **Continuous Improvement**: Regular improvement and update on the website.
+
 
 
 **3. Working Hours**
