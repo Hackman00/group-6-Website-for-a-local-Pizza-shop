@@ -122,4 +122,3 @@ Aziz Ali
 
 Aidan Moir
 
-Bereket Mulat Mengiste
