@@ -86,6 +86,33 @@ This document defines expectaions, guidelines and procedure to follow by the tea
 
 ---
 
+## 11. Responsibilities
+- Each team member is responsible for completing their assigned tasks on time.
+- Everyone should check GitHub regularly for updates.
+- If someone is stuck, they should ask for help instead of waiting.
+
+## 12. Code Practices
+- Use clear names for files, functions, and variables.
+- Always pull the latest code before starting new work.
+- Don’t push directly to the main branch — use pull requests.
+- Add comments in the code so others can understand it.
+
+## 13. Website Quality
+- The site should be mobile-friendly (works on phones and desktops).
+- Pages should load quickly.
+- All links (like navbar) should go to the right page.
+- Forms should check for errors (like empty fields).
+
+## 14. Learning & Growth
+- Team members can share tips or resources to help each other.
+- Mistakes are okay — we use them to improve.
+- Everyone should try to learn both frontend and backend basics.
+
+## 15. Backup & Safety
+- Always save work in GitHub (no local-only work).
+- Keep passwords safe and never share them outside the team.
+- Double-check before deleting files or data.
+
 ## 📝 Acknowledgment  
 By signing, each team member commits to these agreements for smooth collaboration and successful delivery of the Pizza Store Website.  
 
