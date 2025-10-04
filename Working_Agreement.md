@@ -26,3 +26,19 @@ This document defines expectaions, guidelines and procedure to follow by the tea
 
 **Responsiveness**: Response times between four to 6 hours.
 
+
+
+**4. Meeting Etiquette & Cadence**
+
+**Daily Standups (15 min)**: Held at 12:00 PM EST to discuss progress, blockers, and next steps.
+
+**Sprint Planning (1 hour)**: Every first day of the Sprint to define backlog priorities and goals within reasonable time frames.
+
+**Sprint Review (45 minutes)**: Held on the last day of the Sprint to demonstrate deliverables and completed features for feedback purposes.
+
+**Sprint Retrospective (45 minutes)**: Occurs at the end of the Sprint to discuss areas for improvement.
+
+**Ad-hoc Meetings**: Kept to a minimum; must have a clear agenda and objective before scheduling.
+
+
+
