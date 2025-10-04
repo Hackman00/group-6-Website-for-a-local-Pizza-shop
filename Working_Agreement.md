@@ -121,3 +121,5 @@ By signing, each team member commits to these agreements for smooth collaboratio
 Aziz Ali
 
 Aidan Moir
+
+Bereket Mulat Mengiste
