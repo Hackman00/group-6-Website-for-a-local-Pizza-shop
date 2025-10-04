@@ -54,3 +54,18 @@ This document defines expectaions, guidelines and procedure to follow by the tea
 
 **Response Time**: Team members are encouraged to respond to messages within 4 working hours.
 
+
+
+**6. Work Process & Definition of Done (DoD)**
+
+**User Stories must include** well-defined requirements, success criteria, and estimated effort.
+
+**Code must be reviewed** thorough pull requests (PRs) before being merged into the main branch.
+
+**Data validation must be performed** prior to analysis to ensure accuracy and data integrity.
+
+**All work must be reproducible** - Include Jupyter notebooks or SQL queries where appropriate.
+
+**Dashboards & Reports must be validated** with stakeholders prior to deployment.
+
+**Final deliverables must be documented** with clear explanations, methodologies, and key findings.
