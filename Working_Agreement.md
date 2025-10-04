@@ -42,3 +42,15 @@ This document defines expectaions, guidelines and procedure to follow by the tea
 
 
 
+**5. Communication & Collaboration**
+
+**Primary Communication Channel**: Slack (#data-analytics-team) will be used for daily discussions and quick updates.
+
+**Project Management Tool**: Jira will serve as the system for tracking backlog items and monitoring progress.
+
+**Documentation**: All project documentation, findings, and insights will be stored in Confluence.
+
+**Code & Data Repositories**: GitHub will be used for version control and to store datasets.
+
+**Response Time**: Team members are encouraged to respond to messages within 4 working hours.
+
