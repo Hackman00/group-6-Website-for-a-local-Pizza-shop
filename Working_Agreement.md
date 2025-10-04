@@ -118,5 +118,6 @@ By signing, each team member commits to these agreements for smooth collaboratio
 
 **Team Members:** 
 
-Aziz Ali 
+Aziz Ali
+
 Aidan Moir
