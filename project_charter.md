@@ -25,7 +25,7 @@ Our local pizza shop project aims to design and develop solutions that help with
 * Build a login and signup form with validation so returning customers can save information for future orders.
 * Integrate all components, ensure responsiveness, and polish the UI for final release.
 
-  ### Deliverables
+### Deliverables
 
   * Implementation of the user interface (homepage, menu, customization panel, order form, and tracking page) using HTML, CSS, and JavaScript.
   * Server-side logic for order processing, database connections, and API integration for order and customer management.
