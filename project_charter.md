@@ -1,4 +1,4 @@
-Project Charter - Local Pizza Shop 
+### Project Charter - Local Pizza Shop 
 
 ## Introduction 
 
