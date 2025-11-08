@@ -39,4 +39,9 @@ Our local pizza shop project aims to design and develop solutions that help with
 
   ### Risks, Assumptions, and Constraints
 
+  ### WBS 
+
+  <img width="2700" height="1164" alt="image" src="https://github.com/user-attachments/assets/28ad582b-db71-467e-84e9-01d6e17d84eb" />
+
+
   
