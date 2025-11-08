@@ -32,16 +32,27 @@ Our local pizza shop project aims to design and develop solutions that help with
   * Setup of a relational database to store customer, order, and menu information securely.
   * Launch of the web application and delivery of a documentation guide for users and administrators
   * Establish and maintain an efficient Scrum framework by facilitating sprint planning, daily stand-ups, reviews, and retrospectives to ensure smooth team collaboration         and timely project delivery.
- 
+
+### Work Breakdown Structure (WBS)
+
+<img width="2700" height="1164" alt="image" src="https://github.com/user-attachments/assets/28ad582b-db71-467e-84e9-01d6e17d84eb" />
+
+### Requirements Traceability Matrix (RTM)
+
+| Requirement Id | Requirement | Deliverable Id | Deliverable | Status |
+|---------------|-------------|----------------|-------------|--------|
+| REQ01 | Securely log in and authenticate account | DEL01 | Login system with logout, password reset, and security authentication | Done |
+| REQ02 | Users can view their account activity and history | DEL02 | Users can view order history, previous orders, and leave feedback/review | Testing |
+| REQ03 | Users can manage their profile information | DEL03 | Users can update profile details, save addresses, and set ingredient preferences | Not Started |
+| REQ04 | Users can view the menu | DEL04 | Menu displays pizza items with names, images, and prices | Not Started |
+| REQ05 | Admin can manage menu items | DEL05 | Admin can add, edit, and remove menu items | Not Started |
+| REQ06 | Users can search and filter menu items | DEL06 | Search bar and filtering options for menu navigation | Not Started |
+
   ### Preliminary Budget
 
   ### Organization and Stakeholders
 
   ### Risks, Assumptions, and Constraints
-
-  ### Work Breakdown Structure (WBS)
-
-  <img width="2700" height="1164" alt="image" src="https://github.com/user-attachments/assets/28ad582b-db71-467e-84e9-01d6e17d84eb" />
 
 
   
