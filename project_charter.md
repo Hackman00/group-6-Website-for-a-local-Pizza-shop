@@ -47,6 +47,10 @@ Our local pizza shop project aims to design and develop solutions that help with
 | REQ04 | Users can view the menu | DEL04 | Menu displays pizza items with names, images, and prices | Not Started |
 | REQ05 | Admin can manage menu items | DEL05 | Admin can add, edit, and remove menu items | Not Started |
 | REQ06 | Users can search and filter menu items | DEL06 | Search bar and filtering options for menu navigation | Not Started |
+| REQ07 | Users can customize their pizza and add special instructions if preferred | DEL07 | Pizza customization section with list of toppings and special instructions section for users to write any necessary instructions | Not started |
+| REQ08 | Users can create their order | DEL08 | Cart section listing each added item, with the option to remove or update items and change the quantity | Not Started |
+| REQ09 | Users can cancel their order at any time | DEL09 | Option that allows users to cancel their order after placing it with a potential refund | Not Started |
+| REQ10 | Users can track the status of their live order | DEL10 | Order status menu that contains the current status of the order | Not Started |
 
   ### Preliminary Budget
 
