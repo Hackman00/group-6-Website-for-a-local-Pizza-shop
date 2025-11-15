@@ -54,6 +54,20 @@ Our local pizza shop project aims to design and develop solutions that help with
 
   ### Preliminary Budget
 
+
+<img width="1380" height="1366" alt="image" src="https://github.com/user-attachments/assets/3944814e-5d85-4a85-aa08-e83588c7b47c" />
+
+
+
+
+
+
+
+
+
+
+  
+
   ### Organization and Stakeholders
 
   ### Risks, Assumptions, and Constraints
