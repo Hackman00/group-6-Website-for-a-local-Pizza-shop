@@ -54,19 +54,14 @@ Our local pizza shop project aims to design and develop solutions that help with
 
   ### Preliminary Budget
 
-
 <img width="1380" height="1366" alt="image" src="https://github.com/user-attachments/assets/3944814e-5d85-4a85-aa08-e83588c7b47c" />
 
-
-
-
-
-
-
-
-
-
-  
+Contigency: 12%
+Personnel Subtotal + Contigency = $14,400 x 1.12 = $16,128
+Fixed Cost Subtotal + Contigency = $12,320 x 1.12 = $13,798
+Start-Up Subtotal + Contigency = $22,000 x 1.12 = $24,640
+Total Cost = $48,720
+Total Cost + Contigency = $48,720 x 1.12 = $54,566
 
   ### Organization and Stakeholders
 
