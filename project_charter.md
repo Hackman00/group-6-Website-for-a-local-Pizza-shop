@@ -64,6 +64,9 @@ Our local pizza shop project aims to design and develop solutions that help with
 * Total Cost Contingency Amount = $48,720 x 0.12 = $5,846
 * Total Project Cost = Total Cost + Contingency = $48,720 x 1.12 = $54,566
 
+### Gantt Chart
+![16-Week Project Gantt Chart](WhatsApp Image 2025-11-14 at 11.03.18 PM.jpeg)
+
   ### Organization and Stakeholders
 
   ### Risks, Assumptions, and Constraints
