@@ -52,7 +52,7 @@ Our local pizza shop project aims to design and develop solutions that help with
 | REQ09 | Users can cancel their order at any time | DEL09 | Option that allows users to cancel their order after placing it with a potential refund | Not Started |
 | REQ10 | Users can track the status of their live order | DEL10 | Order status menu that contains the current status of the order | Not Started |
 
-  ### Preliminary Budget
+### Preliminary Budget
 
 <img width="1380" height="1366" alt="image" src="https://github.com/user-attachments/assets/3944814e-5d85-4a85-aa08-e83588c7b47c" />
 
@@ -67,7 +67,8 @@ Our local pizza shop project aims to design and develop solutions that help with
 ### Gantt Chart
 ![16-week project Gantt chart for the local pizza shop website showing all major phases and timelines](https://github.com/Hackman00/group-6-Website-for-a-local-Pizza-shop/blob/main/WhatsApp%20Image%202025-11-14%20at%2011.03.18%20PM.jpeg)
 
-  ### Organization and Stakeholders
+### Organization and Stakeholders
+
 Stakeholder Analysis:
 ![Stakeholder Analysis](Stakeholder_analysis.png)
 
