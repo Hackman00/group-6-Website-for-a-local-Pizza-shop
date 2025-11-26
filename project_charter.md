@@ -68,7 +68,7 @@ Our local pizza shop project aims to design and develop solutions that help with
 ![16-week project Gantt chart for the local pizza shop website showing all major phases and timelines](https://github.com/Hackman00/group-6-Website-for-a-local-Pizza-shop/blob/main/WhatsApp%20Image%202025-11-14%20at%2011.03.18%20PM.jpeg)
 
 ### Organization and Stakeholders
-
+  
 Stakeholder Analysis:
 ![Stakeholder Analysis](Stakeholder_analysis.png)
 
