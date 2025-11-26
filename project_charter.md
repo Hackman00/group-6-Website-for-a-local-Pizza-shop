@@ -72,7 +72,7 @@ Stakeholder Analysis:
 ![Stakeholder Analysis](Stakeholder_analysis.png)
 
 Communications Plan:
-![Communications Plan](Communication Plan.jpg)
+![Communications Plan](Communication_plan.jpg)
 
   ### Risks, Assumptions, and Constraints
 
