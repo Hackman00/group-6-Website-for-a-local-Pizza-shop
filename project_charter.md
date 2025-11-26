@@ -72,8 +72,8 @@ Our local pizza shop project aims to design and develop solutions that help with
 Stakeholder Analysis:  
 ![Stakeholder Analysis](Stakeholder_analysis.png)
 
-Communications Plan:
-![Communications Plan](Communication_plan.jpg)
+Communication Plan:
+![Communication Plan](Communication_plan.jpg)
 
   ### Risks, Assumptions, and Constraints
 
