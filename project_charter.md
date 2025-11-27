@@ -76,7 +76,7 @@ Communication Plan:
 ![Communication Plan](Communication_plan.jpg)
 
   ### Risks, Assumptions, and Constraints
-    ### Risks
+  ### Risks
   - Server downtime or AWS failure – website becomes inaccessible for customers.
   - Database failure or data corruption – orders, customer data, or menu items could be lost.
   - Bugs in checkout/payment processing – duplicate, failed, or incorrect payments.
