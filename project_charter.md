@@ -76,6 +76,18 @@ Communication Plan:
 ![Communication Plan](Communication_plan.jpg)
 
   ### Risks, Assumptions, and Constraints
+    ### Risks
+  - Server downtime or AWS failure – website becomes inaccessible for customers.
+  - Database failure or data corruption – orders, customer data, or menu items could be lost.
+  - Bugs in checkout/payment processing – duplicate, failed, or incorrect payments.
+  - Integration issues between backend and frontend – order updates may not sync correctly.
+  - Menu and inventory not updated in real time – customers ordering out-of-stock items.
+  - Restaurant staff not trained to use the system – leads to order mishandling or mistakes.
+  - Deadlines not met due to complexity of features – project could be incomplete at delivery.
+  - Complicated ordering UI – users may leave without placing an order
+  - Delivery delays during rush hours – impacts customer satisfaction and ratings.
+  - Overwhelming customization options — users could get confused or take too long to order.
+  
 
 
   
