@@ -87,6 +87,11 @@ Communication Plan:
   - Complicated ordering UI – users may leave without placing an order
   - Delivery delays during rush hours – impacts customer satisfaction and ratings.
   - Overwhelming customization options — users could get confused or take too long to order.
+
+Risk Evaluation 
+
+<img width="1622" height="1014" alt="image" src="https://github.com/user-attachments/assets/f7cf00eb-ab94-4721-a795-173ee0359941" />
+
   
 
 
